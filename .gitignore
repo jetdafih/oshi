@@ -1,0 +1,4 @@
+oshi
+*.o
+oshi-debug
+.version
